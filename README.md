@@ -2,5 +2,5 @@
 
 This is my hello world for Front-End Dev. <br />
 The styled HTML looks like this <br />
-
+Made with love &#x1F49C;
 <img src="index.png"/>
