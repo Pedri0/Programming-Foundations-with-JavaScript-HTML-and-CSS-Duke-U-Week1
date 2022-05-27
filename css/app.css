@@ -1,0 +1,60 @@
+h1 {
+    text-align: center;
+    color: cadetblue;
+}
+
+header {
+    align-items: center;
+    
+    background: rgb(216,246,241);
+    background: radial-gradient(circle, rgba(216,246,241,1) 0%, rgba(87,198,67,1) 61%, rgba(0,82,255,1) 100%);
+    border-radius: 80px;
+}
+
+.placeOne {
+    color: greenyellow;
+}
+
+.placeTwo {
+    color: blue;
+}
+
+.placeThree {
+    color: blueviolet;
+}
+
+.subPlace {
+    color: aqua;
+}
+
+#dukeLogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.images {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+#footerPage {
+    text-align: center;
+    border-radius: 50px;
+    background: rgb(151,147,227);
+    background: linear-gradient(9deg, rgba(151,147,227,1) 0%, rgba(125,125,227,1) 4%, rgba(0,212,255,1) 100%);
+    color: aliceblue;
+}
+
+table {
+    border: #377e7e 4px solid;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  td, th {
+    border: blueviolet 2px solid;
+    
+  }
